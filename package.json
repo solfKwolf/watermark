@@ -2,7 +2,7 @@
   "name": "@fisher-zh/watermark",
   "version": "0.0.1",
   "description": "a js plugin for watermark",
-  "main": "dist/watermark.js",
+  "main": "index.js",
   "scripts": {
     "build": "webpack"
   },

@@ -14,14 +14,14 @@ npm install @fisher-zh/watermark
 ## 使用
 ```javascript
 WaterMark({
-    type = 'canvas',
+    type: 'canvas',
     container: document.getElementById('canvas'),
-    content = 'WaterMark',
-    width = '300px',
-    height = '200px',
-    rotate = '30',
-    fontSize = '20px',
-    color = 'rgba(184, 184, 184, 0.8)'
+    content: 'WaterMark',
+    width: '300px',
+    height: '200px',
+    rotate: '30',
+    fontSize: '20px',
+    color: 'rgba(184, 184, 184, 0.8)'
 });
 ```
 参数 | 说明 |  类型 | 可选值 | 默认值  
