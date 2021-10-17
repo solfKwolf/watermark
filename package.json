@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack"
   },
+  "browserslist": "> 0.25%, ie 9, not dead",
   "keywords": [
     "watermark",
     "canvas",
@@ -19,7 +20,13 @@
   "author": "zhangfx",
   "license": "MIT",
   "dependencies": {
+    "js-base64": "^2.6.3",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-loader": "^8.2.2"
   }
 }
