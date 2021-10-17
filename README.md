@@ -11,7 +11,7 @@
 - npm
 
 ```javascript
-npm install @fisher-zh/watermark
+npm install @solfkwolf/watermark
 ```
 
 - script

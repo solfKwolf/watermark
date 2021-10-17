@@ -1,5 +1,5 @@
 {
-  "name": "@fisher-zh/watermark",
+  "name": "@solfkwolf/watermark",
   "version": "0.0.1",
   "description": "a js plugin for watermark",
   "main": "index.js",
@@ -11,13 +11,14 @@
     "watermark",
     "canvas",
     "svg",
-    "js"
+    "js",
+    "ie"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fisher-zh/watermark"
+    "url": "https://github.com/solfKwolf/watermark"
   },
-  "author": "zhangfx",
+  "author": "liuzongjie",
   "license": "MIT",
   "dependencies": {
     "js-base64": "^2.6.3",
